@@ -15,7 +15,7 @@ This project demonstrates time series forecasting using the **ARIMA** model on t
 Clone the repository and install the required dependencies:
 
 ```sh
-git clone https://github.com/your-username/Time-Series-Forecasting.git
+git clone https://github.com/Ravipaygan296/Time-Series-Forecasting.git
 cd Time-Series-Forecasting
 pip install -r requirements.txt
 ```
